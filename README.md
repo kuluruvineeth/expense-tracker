@@ -6,19 +6,19 @@ An expense tracking application with data visualization - developed using React,
 ![homePage](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/homePage.png)
 
 ## AddExpense Page
-[addExpense](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/addExpense.png)
+![addExpense](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/addExpense.png)
 
 ## Expenses Page
-[expensesPage](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/expensesPage.png)
+![expensesPage](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/expensesPage.png)
 
 ## Month Scatter
-[monthScatter](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/monthScatter.png)
+![monthScatter](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/monthScatter.png)
 
 ## Monthly Bar
-[monthlyBar](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/monthlyBar.png)
+![monthlyBar](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/monthlyBar.png)
 
 ## Categories pie
-[categoryPie](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/categoryPie.png)
+![categoryPie](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/categoryPie.png)
 
 
 #### What you need to run this code
