@@ -2,11 +2,24 @@
 
 An expense tracking application with data visualization - developed using React, Node, Express, MongoDB and Victory.
 
-![MERN Expense Tracker](https://mernbook.s3.amazonaws.com/git+/expensetracker.png "MERN Expense Tracker")
+## Home Page
+![homePage](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/homePage.png)
 
-![MERN Expense Tracker Graphs](https://mernbook.s3.amazonaws.com/git+/graphs.png "MERN Expense Tracker Graphs")
+## AddExpense Page
+[addExpense](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/addExpense.png)
 
-### [Live Demo](http://expensetracker.mernbook.com/ "MERN Expense Tracker")
+## Expenses Page
+[expensesPage](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/expensesPage.png)
+
+## Month Scatter
+[monthScatter](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/monthScatter.png)
+
+## Monthly Bar
+[monthlyBar](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/monthlyBar.png)
+
+## Categories pie
+[categoryPie](https://github.com/kuluruvineeth/mern-expense-tracker/blob/master/screenshots/categoryPie.png)
+
 
 #### What you need to run this code
 1. Node (13.12.0)
